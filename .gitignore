@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# salty on demand
+*.mp4
+*.mp4.part
